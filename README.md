@@ -13,6 +13,7 @@ the neural network to predict calories by dishes photos
 **Датасет**  
 Zip-архив датасета расположен по ссылке https://disk.yandex.ru/d/kz9g5msVqtahiw  
 Датасет ссодержит фотографии блюд, описание ингредиентов, а также общую массу порции и калорийность.  
+
 data/ingredients.csv:    
 - id — ID ингредиента.  
 - ingr — название ингредиента.  
